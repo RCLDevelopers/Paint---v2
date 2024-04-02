@@ -42,9 +42,7 @@ After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [
 * [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/) - Creating Project
 
 
-### Authors
 
-* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
 
 <br>
 <br>
@@ -58,4 +56,8 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/VB.NET-PROJECTS](https://github.com/Abhijith14/VB.NET-PROJECTS). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/Digital-Clock](https://github.com/RCLDevelopers/Digital-Clock). Thanks!
+
+<br>
+
+## 🎨 Color Reference
